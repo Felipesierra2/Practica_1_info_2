@@ -1,0 +1,15 @@
+# Ignorar carpeta de compilación
+build/
+
+# Ignorar archivos temporales de Qt
+*.pro.user
+*.qbs.user
+*.qmlc
+*.jsc
+
+# Ignorar archivos de sistema
+*.obj
+*.o
+*.exe
+*.dll
+*.log
