@@ -1,0 +1,7 @@
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Practica_1_info_ll.dir
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/felip/OneDrive - Universidad de Antioquia/Documentos/Segundo_semestre/Informatica_2/Practica_1_info_ll/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
