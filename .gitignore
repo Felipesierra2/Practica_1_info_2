@@ -1,15 +1,40 @@
-# Ignorar carpeta de compilación
+# Ignorar carpetas de compilación (CMake o Qt Creator)
 build/
+cmake-build-*/
 
-# Ignorar archivos temporales de Qt
+# Archivos de configuración de Qt Creator
 *.pro.user
+*.pro.user.*
 *.qbs.user
+*.qbs.user.*
+CMakeLists.txt.user
+*.autosave
+
+# Archivos generados por Qt
 *.qmlc
 *.jsc
+.moc/
+.qrc/
+.ui/
+*.qmake.stash
 
-# Ignorar archivos de sistema
-*.obj
+# Archivos intermedios del compilador
 *.o
-*.exe
+*.obj
+*.lo
+*.la
+*.a
+*.lib
 *.dll
+*.so
+*.dylib
+
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Archivos de sistema
 *.log
+*.DS_Store
+Thumbs.db
